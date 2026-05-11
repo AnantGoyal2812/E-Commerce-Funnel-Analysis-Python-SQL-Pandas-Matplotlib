@@ -237,7 +237,7 @@ Dataset provided by Olist under CC BY-NC-SA 4.0.
 
 **Anant Goyal**  
 B.E. Chemical Engineering, BITS Pilani Goa  
-[LinkedIn](https://linkedin.com/in/anant-goyal2812) · [GitHub](https://github.com/yourusername)
+[LinkedIn](https://linkedin.com/in/anant-goyal2812) · [GitHub](https://github.com/AnantGoyal2812)
 
 ## 🙏 Acknowledgments
 
