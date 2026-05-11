@@ -19,13 +19,13 @@ This project analyzes 99,441 orders from the Olist Brazilian E-Commerce dataset 
 ## 📊 Sample Outputs
 
 ### Funnel Visualization
-![Funnel Chart](outputs/funnel_chart.png)
+![Funnel Chart](https://raw.githubusercontent.com/AnantGoyal2812/E-Commerce-Funnel-Analysis-Python-SQL-Pandas-Matplotlib/main/outputs/funnel_chart.png)
 
 ### Drop-off Analysis
-![Drop-off Rates](outputs/dropoff_rates.png)
+![Drop-off Rates](https://raw.githubusercontent.com/AnantGoyal2812/E-Commerce-Funnel-Analysis-Python-SQL-Pandas-Matplotlib/main/outputs/dropoff_rates.png)
 
 ### Time Series Trends
-![Time Series](outputs/time_series.png)
+![Time Series](https://raw.githubusercontent.com/AnantGoyal2812/E-Commerce-Funnel-Analysis-Python-SQL-Pandas-Matplotlib/main/outputs/time_series.png)
 
 ## 🚀 Quick Start
 
@@ -118,7 +118,7 @@ Each observation includes:
 - **Fix:** Add payment methods, optimize UX
 
 ### Observation 2: Delivery Failures
-- **Rate:** 1.13% (1,107 orders)  
+- **Rate:** 1.13% (1,107 orders)
 - **Impact:** $167K lost GMV
 - **Fix:** Improve carrier partnerships, delivery estimates
 
@@ -154,43 +154,6 @@ Each observation includes:
   - 6 hypotheses (2 per observation)
   - 3 actionable recommendations
   - Expected impact and timelines
-
-## 🎯 Use Cases
-
-### Portfolio Projects
-- Demonstrate PM and data skills
-- Show end-to-end analysis capability
-- Exhibit business thinking
-
-### Learning
-- Study funnel analysis methodology
-- Practice Pandas and SQL
-- Learn PM-style communication
-
-### Extension
-- Adapt for SaaS, marketplace, content platforms
-- Modify for different funnel stages
-- Add predictive modeling
-
-## 📚 What You'll Learn
-
-### Data Skills
-- Pandas data cleaning
-- SQL query optimization
-- Time series analysis
-- Statistical visualization
-
-### PM Skills
-- Funnel analysis methodology
-- Hypothesis generation
-- Prioritization frameworks
-- Stakeholder communication
-
-### Engineering
-- Code organization
-- Error handling
-- Documentation standards
-- Reproducible analysis
 
 ## 🔄 Extending the Analysis
 
@@ -270,35 +233,17 @@ This project is open source under the MIT License.
 
 Dataset provided by Olist under CC BY-NC-SA 4.0.
 
-## 👥 Author
+## 👤 Author
 
-**E-Commerce Analytics Team**
-
-For questions or suggestions, open an issue or submit a PR.
+**Anant Goyal**  
+B.E. Chemical Engineering, BITS Pilani Goa  
+[LinkedIn](https://linkedin.com/in/anant-goyal2812) · [GitHub](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
 - **Olist** for providing the public dataset
 - **Kaggle** for hosting the data
 - Brazilian e-commerce ecosystem for real-world complexity
-
----
-
-## 📞 Need Help?
-
-- Check the code comments (200+ explaining PM context)
-- Review the PM_MEMO.md for interpretation examples
-- Open an issue on GitHub
-
----
-
-**Ready to analyze?** Clone the repo and run the script!
-
-```bash
-git clone https://github.com/yourusername/olist-funnel-analysis.git
-cd olist-funnel-analysis
-python olist_funnel_analysis_complete.py
-```
 
 ---
 
