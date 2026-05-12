@@ -19,7 +19,7 @@ This project analyzes 99,441 orders from the Olist Brazilian E-Commerce dataset 
 ## 📊 Sample Outputs
 
 ### Funnel Visualization
-![Funnel Chart](https://raw.githubusercontent.com/AnantGoyal2812/E-Commerce-Funnel-Analysis-Python-SQL-Pandas-Matplotlib/main/outputs/funnel_chart.png)
+![Funnel Chart](funnel_chart.png)
 
 ### Drop-off Analysis
 ![Drop-off Rates](https://raw.githubusercontent.com/AnantGoyal2812/E-Commerce-Funnel-Analysis-Python-SQL-Pandas-Matplotlib/main/outputs/dropoff_rates.png)
