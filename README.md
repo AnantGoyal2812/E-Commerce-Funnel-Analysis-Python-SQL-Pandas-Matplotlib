@@ -25,7 +25,7 @@ This project analyzes 99,441 orders from the Olist Brazilian E-Commerce dataset 
 ![Drop-off Rates](dropoff_rates.png)
 
 ### Time Series Trends
-![Time Series](https://raw.githubusercontent.com/AnantGoyal2812/E-Commerce-Funnel-Analysis-Python-SQL-Pandas-Matplotlib/main/outputs/time_series.png)
+![Time Series](time_series.png)
 
 ## 🚀 Quick Start
 
